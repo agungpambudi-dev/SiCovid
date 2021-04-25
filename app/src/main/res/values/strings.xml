@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SiCovid-19</string>
+
+    <string name="data_api">Data : Covid-19 API</string>
+    <string name="content_description">Content</string>
+    <string name="confirm">Terkonfirmasi</string>
+    <string name="deaths">Meninggal</string>
+    <string name="recovered">Sembuh</string>
+    <string name="active">Dirawat</string>
+    <string name="confirm_diff">Penambahan Terkonfirmasi</string>
+    <string name="deaths_diff">Penambahan Meninggal</string>
+    <string name="recovered_diff">Penambahan Sembuh</string>
+    <string name="active_diff">Penambahan Dirawat</string>
+    <string name="date">Tanggal</string>
+    <string name="last_update">Terakhir Update</string>
+    <string name="iso">Kode Negara</string>
+    <string name="region">Indonesia</string>
+    <string name="global">Global</string>
+    <string name="global_data">Ubah Data Global</string>
+    <string name="global_description">Menampilkan Data Kasus Covid-19 Global</string>
+    <string name="indonesia_data">Ubah Data Indonesia</string>
+    <string name="indonesia_description">Menampilkan Data Kasus Covid-19 Indonesia</string>
+    <string name="province_data">Data Setiap Provinsi</string>
+    <string name="province_description">Menampilkan Kasus Covid-19 Setiap Provinsi di Indonesia</string>
+    <string name="hospital_data">Rumah Sakit Rujukan</string>
+    <string name="hospital_description">Menampilkan Daftar Rumah Sakit Rujukan di Indonesia</string>
+    <string name="about">Tentang</string>
+    <string name="contribution">Kontribusi</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error/Time Out</string>
+    <string name="search">Cari Wilayah</string>
+    <string name="data">Data</string>
+    <string name="data_indonesia">Data Indonesia</string>
+    <string name="data_global">Data Indonesia</string>
+    <string name="data_province">Data Indonesia</string>
+    <string name="api_global">https://covid-api.com/api/</string>
+    <string name="api_province">https://bnpb-inacovid19.hub.arcgis.com/</string>
+    <string name="data_desc">Data dalam aplikasi ini diambil dari beberapa penyedia API Covid-19 diantaranya adalah sebagai berikut:\n
+                                Data Kasus Covid-19 Indonesia\n
+                                - Sumber \t : https://covid-api.com/api/\n
+                                Data Kasus Covid-19 Global\n
+                                - Sumber \t : https://covid-api.com/api/\n
+                                Data Kasus Covid-19 Provinsi Indonesia\n
+                                - Sumber \t : https://bnpb-inacovid19.hub.arcgis.com/\n
+                                Data Rumah Sakit Rujukan Indonesia\n
+                                - Sumber \t : https://bnpb-inacovid19.hub.arcgis.com/</string>
+    <string name="icon">Icon</string>
+    <string name="icon_desc">Tampilan Icon dalam aplikasi ini diambil dari situs flaticon.com</string>
+    <string name="author">Pengembang</string>
+    <string name="author_desc">Agung Pambudi \n agungpambudi139@gmail.com</string>
+    <string name="title_preventive">Pencegahan</string>
+    <string name="title_other">Lainnya</string>
+    <string name="title_masker">Memakai\nMasker</string>
+    <string name="title_wash_hand">Mencuci\nTangan</string>
+    <string name="title_social_distancing">Menjaga\nJarak</string>
+
+</resources>
